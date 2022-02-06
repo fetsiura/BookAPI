@@ -1,0 +1,8 @@
+insert into books (title, author, isbn,publisher,type) values ('Summer', 'Jaro Majer', '654645545435','Wola','book')
+insert into books (title, author, isbn,publisher,type) values ('Black Pirat', 'Piter Luis', '34345656','Netflix','audio')
+insert into books (title, author, isbn,publisher,type) values ('Ciber Wars', 'Henry Klark', '7568234','Disney','book')
+insert into books (title, author, isbn,publisher,type) values ('Six of Crows', 'Jaro Majer', '1278768768435','Cola','audio')
+insert into books (title, author, isbn,publisher,type) values ('The Bomber Mafia', 'Jerry Li', '346572435','Disney','book')
+insert into books (title, author, isbn,publisher,type) values ('Trouble at the Wedding', 'Endy Stark', '8762343242','Netflix','audio')
+insert into books (title, author, isbn,publisher,type) values ('Harry Potter', 'Jaro Majer', '768324234','Disney','book')
+insert into books (title, author, isbn,publisher,type) values ('Friends', 'Endy Stark', '145478687','Cola','audio')
